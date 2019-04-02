@@ -1,0 +1,5 @@
+web3 cdn => https://www.jsdelivr.com/package/npm/web3
+
+ipfs+web3 => https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e
+
+express => https://zellwk.com/blog/crud-express-mongodb/
